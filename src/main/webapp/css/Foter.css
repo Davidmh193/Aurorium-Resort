@@ -35,6 +35,8 @@
   .social-btn:hover {
     width: 150px;
     border-radius: 5px;
+    color: #7d7d7d;
+    
   }
   
   .social-btn:hover span {
@@ -80,7 +82,7 @@
     }
     
     .footer .row a:hover{
-    color:#fff;
+    color: #a9a9a9;
     }
     
     .footer .row ul{
