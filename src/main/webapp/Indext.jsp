@@ -44,7 +44,7 @@
       </header>
       
         <video class="lazy" id="heroVideo" muted="" autoplay="" preload="auto" playsinline="" loop="" poster="dist/images/hero-poster.jpg">
-          <source src="/agua-azul-105952.mp4" type="video/mp4">
+          <source src="css/Agua.mp4" type="video/mp4">
       </video>
       
         
@@ -94,7 +94,7 @@
       <button class="watch-btn">Ver</button>
   </div>
 </div>
-<div class="card" style="margin-left: 105px; background-image: url(css/The\ St_\ Regis\ Bali\ Resort—Gardenia\ Villa\ -\ Bedroom.jpg);">
+<div class="card" style="margin-left: 105px; background-image: url(css/FotoCuarto.jpg);">
   <div class="card-top">
       <p class="card__title">Arnold Bermell</p>
       <div class="rating">
