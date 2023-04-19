@@ -25,7 +25,7 @@
     <div>
       <header>
         <nav class="wrapper">
-         <div class="imagenlogo"><img src="/LogoAurorium1-removebg-preview.png" alt=""></div>
+         <div class="imagenlogo"><img src="css/LogoAurorium1-removebg-preview.png" alt=""></div>
           <div class="links" id="links">
             <div class="wrapper-links">
               <a href="#" class="link active">Home</a>
@@ -76,7 +76,7 @@
 <div class="imagenestexto"></div>
 <div class="dash"></div>
 
-<div class="card" style="background-image:url(/TROPICAL\ HOME\ DECOR_\ 9\ QUICK\ AND\ EASY\ DECORATING\ IDEAS.jpg)">
+<div class="card" style="background-image:url(css/TROPICAL\ HOME\ DECOR_\ 9\ QUICK\ AND\ EASY\ DECORATING\ IDEAS.jpg)">
   <div class="card-top">
       <p class="card__title">Marcos Martinez</p>
       <div class="rating">
@@ -94,7 +94,7 @@
       <button class="watch-btn">Ver</button>
   </div>
 </div>
-<div class="card" style="margin-left: 105px; background-image: url(/The\ St_\ Regis\ Bali\ Resort—Gardenia\ Villa\ -\ Bedroom.jpg);">
+<div class="card" style="margin-left: 105px; background-image: url(css/The\ St_\ Regis\ Bali\ Resort—Gardenia\ Villa\ -\ Bedroom.jpg);">
   <div class="card-top">
       <p class="card__title">Arnold Bermell</p>
       <div class="rating">
@@ -115,7 +115,7 @@
 
 
 
-<div class="card" style="margin-left: 105px; background-image: url(/21\ Overwater\ Bungalows\ That\ Are\ Truly\ Like\ Heaven\ on\ Earth.jpg);">
+<div class="card" style="margin-left: 105px; background-image: url(css/21\ Overwater\ Bungalows\ That\ Are\ Truly\ Like\ Heaven\ on\ Earth.jpg);">
   <div class="card-top">
       <p class="card__title">David Mangas</p>
       <div class="rating">
