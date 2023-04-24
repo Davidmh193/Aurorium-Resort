@@ -32,7 +32,7 @@
               <a href="#" class="link ">Actividades</a>
               <a href="#" class="link">Habitaciones</a>
               <a href="#" class="link">Reservar</a>
-              <a href="#" class="link"><i class="fa fa-phone"></i></q> Contacto</a>
+              <a href="Contacto.jsp" class="link"><i class="fa fa-phone"></i></q> Contacto</a>
             </div>
           </div>
           <div class="icon-links" id="button-menu">
@@ -62,6 +62,7 @@
         </div>
       </div>
     </main>
+        <script src="MenuDesplegable.js"></script>
   </body>
 
 <div class="texto"><p>Nuestra historia</p>
@@ -105,7 +106,7 @@
   </div>
   <div class="card__info">
       <p class="episode__num">Puntuacion</p>
-      <p class="episode__type">Increible</p>
+      <p class="episode__type">Expectacular</p>
   </div>
   <div class="card__btns">
       <button class="add-btn">+</button>
@@ -168,5 +169,4 @@
   </div>
   </div>
   </footer>
-
-</html>
+ </html>
